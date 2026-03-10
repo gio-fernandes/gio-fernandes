@@ -30,16 +30,12 @@ Atualmente busco minha **primeira oportunidade como QA Estagiária ou QA Júnior
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[mailto:giovannaf.silvestrini@gmail.com](https://mail.google.com/mail/u/0/#inbox)">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 
-## Projetos
+## Projetos 💻
 
 Alguns projetos práticos focados em testes de software:
 
@@ -94,7 +90,7 @@ https://github.com/gio-fernandes/beer_api_digital_innovation_one
 ---
 
 
-## Tecnologias e Ferramentas 
+## Tecnologias e Ferramentas 🛠️
 
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -110,10 +106,10 @@ https://github.com/gio-fernandes/beer_api_digital_innovation_one
 ---
 
 
-## Contribuições 📈 
+## Minhas Contribuições 📈 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gio-fernandes&theme=tokyo-night)
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+⭐ Obrigada por visitar meu perfil! Até mais!
