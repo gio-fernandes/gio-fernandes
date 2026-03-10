@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Giovanna 👋</h1>
+<h1 align="center">Olá, eu sou a Giovanna 👋😊</h1>
 
 <p align="center">
 Estudante de Sistemas de Informação | QA Analist em formação
@@ -6,7 +6,8 @@ Estudante de Sistemas de Informação | QA Analist em formação
 
 ---
 
-## 👩 Sobre mim
+
+## Sobre mim 👩
 
 Sou estudante de **Sistemas de Informação** com foco em **Quality Assurance (QA)**.
 
@@ -16,11 +17,12 @@ Aqui no GitHub compartilho alguns desses projetos, que demonstram minha evoluç�
 
 Atualmente busco minha **primeira oportunidade como QA Estagiária ou QA Júnior**, onde eu possa aprender, colaborar com o time e contribuir para a qualidade de produtos digitais.
 
-📍 Paraty - RJ 🌅🏝️
+📍 Paraty - RJ 🏝️
 
 ---
 
-## 📫 Contato
+
+## Contato 📫
 
 <p>
 
@@ -28,13 +30,14 @@ Atualmente busco minha **primeira oportunidade como QA Estagiária ou QA Júnior
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:giovannaf.silvestrini@gmail.com">
+<a href="[mailto:giovannaf.silvestrini@gmail.com](https://mail.google.com/mail/u/0/#inbox)">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
+
 
 ## Projetos
 
@@ -90,6 +93,7 @@ https://github.com/gio-fernandes/beer_api_digital_innovation_one
 
 ---
 
+
 ## Tecnologias e Ferramentas 
 
 <p>
@@ -105,13 +109,6 @@ https://github.com/gio-fernandes/beer_api_digital_innovation_one
 
 ---
 
-## Estatísticas do GitHub 📊
-
-![Gio GitHub stats](https://github-readme-stats.vercel.app/api?username=gio-fernandes&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gio-fernandes&layout=compact&theme=tokyonight)
-
----
 
 ## Contribuições 📈 
 
