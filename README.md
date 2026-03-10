@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Giovanna 👋😊</h1>
+<h1 align="center">Oi, eu sou a Giovanna 👋😊</h1>
 
 <p align="center">
 Estudante de Sistemas de Informação | QA Analist em formação
@@ -52,8 +52,7 @@ Testes implementados:
 - Validação de estrutura da resposta
 - Cenários positivos e negativos
 
-🔗  
-https://github.com/gio-fernandes/qa-api-tests-reqres
+🔗  https://github.com/gio-fernandes/qa-api-tests-reqres
 
 ---
 
@@ -68,8 +67,7 @@ Cenários testados:
 - Bloqueio após múltiplas tentativas
 - Validação do comportamento esperado do sistema
 
-🔗 
-https://github.com/gio-fernandes/login-security-dio
+🔗 https://github.com/gio-fernandes/login-security-dio
 
 ---
 
@@ -84,8 +82,7 @@ Práticas aplicadas:
 - Organização de endpoints
 - Validação de respostas da API
 
-🔗
-https://github.com/gio-fernandes/beer_api_digital_innovation_one
+🔗 https://github.com/gio-fernandes/beer_api_digital_innovation_one
 
 ---
 
