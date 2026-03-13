@@ -1,112 +1,52 @@
-<h1 align="center">Oi, eu sou a Giovanna 👋😊</h1>
+# Giovanna Fernandes
 
-<p align="center">
-Estudante de Sistemas de Informação | QA Analist em formação
-</p>
-
----
+Quality Assurance | Testes de Software | Automação
 
 
-## Sobre mim 👩
+Sou estudante de **Sistemas de Informação** e estou construindo minha carreira na área de **Quality Assurance (QA)**, com foco em garantir **qualidade, confiabilidade e estabilidade em aplicações** através de testes de software.
 
-Sou estudante de **Sistemas de Informação** com foco em **Quality Assurance (QA)**.
+Atualmente moro em **Paraty/RJ**, cidade cercada por natureza e mar 🌊💙.
+No meu tempo livre gosto de **assistir filmes e séries, criar peças em cerâmica, explorar trilhas e estar sempre em contato com a natureza**, atividades que também me ajudam a manter a criatividade, o foco e a curiosidade.
 
-Tenho desenvolvido projetos práticos envolvendo **testes de API, testes unitários e validação de comportamento de aplicações**, aplicando boas práticas de qualidade de software.
+Conquistei minha **Certificação em Quality Assurance pela Digital Innovation One (DIO)**, onde desenvolvi projetos práticos envolvendo **testes de API, testes automatizados, testes de UI e validação de aplicações**.
 
-Aqui no GitHub compartilho alguns desses projetos, que demonstram minha evolução na área de testes e qualidade.
-
-Atualmente busco minha **primeira oportunidade como QA Estagiária ou QA Júnior**, onde eu possa aprender, colaborar com o time e contribuir para a qualidade de produtos digitais.
-
-📍 Paraty - RJ 🏝️
+Aqui no GitHub compartilho projetos que demonstram meu aprendizado e evolução em **testes de software, automação e boas práticas de qualidade**.
 
 ---
 
+# Tecnologias e Ferramentas
 
-## Contato 📫
+## Testes 🧪
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-Android_UI_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 
-<p>
+## Desenvolvimento & Suporte 💻
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-<a href="https://www.linkedin.com/in/giovanna-fernandes2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## Qualidade & Processos ⚙️
+![Test Plan](https://img.shields.io/badge/Test%20Plan-QA-blue?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-QA-green?style=for-the-badge)
+![Bug Report](https://img.shields.io/badge/Bug%20Report-QA-red?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-QA-purple?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions)
 
-</p>
 
 ---
 
+# Meus Projetos 
 
-## Projetos 💻
+### API Testing — ReqRes
 
-Alguns projetos práticos focados em testes de software:
+Desenvolvi um projeto de automação de testes de API utilizando Postman e Newman. Criei cenários de teste validando status code, estrutura de resposta, dados retornados e tempo de resposta da API ReqRes. Os testes são executados via CLI com geração de relatório HTML e o projeto também inclui documentação de QA como test plan, test cases e bug report.
 
-###  API Testing com Postman e Newman 🧪
-
-Projeto de testes automatizados utilizando **Postman + Newman**.
-
-Testes implementados:
-
-- Listagem de usuários
-- Criação de usuário
-- Usuário inexistente
-- Validação de status code
-- Validação de estrutura da resposta
-- Cenários positivos e negativos
-
-🔗  https://github.com/gio-fernandes/qa-api-tests-reqres
+🔗 https://github.com/gio-fernandes/api-tests-reqres
 
 ---
 
-### Sistema de Login com Testes Unitários 🧪
-
-Projeto focado em **TDD e testes unitários**.
-
-Cenários testados:
-
-- Autenticação de usuário
-- Controle de tentativas inválidas
-- Bloqueio após múltiplas tentativas
-- Validação do comportamento esperado do sistema
-
-🔗 https://github.com/gio-fernandes/login-security-dio
-
----
-
-### API Beer 🧪
-
-Projeto voltado para **testes de API e validação de endpoints**.
-
-Práticas aplicadas:
-
-- Testes de API
-- Estrutura de testes
-- Organização de endpoints
-- Validação de respostas da API
-
-🔗 https://github.com/gio-fernandes/beer_api_digital_innovation_one
-
----
-
-
-## Tecnologias e Ferramentas 🛠️
-
-<p>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Newman-172B4D?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-
-## Minhas Contribuições 📈 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gio-fernandes&theme=tokyo-night)
-
----
-
-⭐ Obrigada por visitar meu perfil! Até mais!
