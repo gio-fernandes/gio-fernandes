@@ -14,24 +14,22 @@ Aqui no GitHub compartilho projetos que demonstram meu aprendizado e evolução 
 
 ---
 
-# Tech Stack 🧰
+# Stack 🧰
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="45" height="45"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="45" height="45" />
 </p>
 
----
+----
 
 # Meus Projetos 
 
@@ -50,4 +48,12 @@ Esse projeto é uma automação E2E com Cypress usando a aplicação OrangeHRM. 
 🔗 https://github.com/gio-fernandes/cypress-orangehrm-tests
 
 ---
+
+### Testes de Performance com K6 | DummyJSON
+
+Projeto de testes de performance com K6 na API DummyJSON para validar tempo de resposta, comportamento sob carga e fluxos de autenticação.
+Criei cenários de smoke, carga, stress, busca de produtos, produto único, login positivo e negativo, além de acesso autenticado com token.
+Também organizei a execução dos testes com um arquivo .bat, pensando na padronização e facilidade de uso.
+
+🔗 https://github.com/gio-fernandes/k6-performance-dummyjson
 
