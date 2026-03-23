@@ -59,7 +59,7 @@ Também organizei a execução dos testes com um arquivo .bat, pensando na padro
 
 ---
 
-### 🚀 API Fuzzer | Java
+### API Fuzzer | Java
 
 Desenvolvi uma ferramenta de API Fuzzing em Java usando Rest Assured e JUnit para validar a resiliência de endpoints diante de entradas inválidas.
 O projeto envia diferentes tipos de payloads, como strings grandes, campos vazios, SQL injection, XSS, null e tipos incorretos, verificando se a API trata esses cenários sem retornar erro 500.
