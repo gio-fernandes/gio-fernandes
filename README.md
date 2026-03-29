@@ -65,3 +65,12 @@ Desenvolvi uma ferramenta de API Fuzzing em Java usando Rest Assured e JUnit par
 O projeto envia diferentes tipos de payloads, como strings grandes, campos vazios, SQL injection, XSS, null e tipos incorretos, verificando se a API trata esses cenários sem retornar erro 500.
 
 🔗 https://github.com/gio-fernandes/api-fuzzer-java
+
+---
+
+### Test Case Generator
+
+Desenvolvi uma aplicação web para gerar casos de teste de forma automática. A parte visual foi feita em React com Vite, e a API foi feita em Node.js com Express. A ideia do projeto é facilitar o trabalho de QA, transformando campos comuns de sistemas em cenários de teste prontos, o que economiza tempo e ajuda a padronizar a análise.
+
+🔗 https://github.com/gio-fernandes/test-case-generator
+
