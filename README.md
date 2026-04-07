@@ -74,3 +74,11 @@ Desenvolvi uma aplicação web para gerar casos de teste de forma automática. A
 
 🔗 https://github.com/gio-fernandes/test-case-generator
 
+---
+
+### Flaky Test Detector
+
+Esse projeto é uma ferramenta para acompanhar se os testes automáticos de um sistema são confiáveis ou não. Em vez de olhar arquivos técnicos e difíceis de entender, ele transforma os resultados em um painel visual que mostra quais testes estão funcionando bem, quais falham e quais são “flaky” — ou seja, às vezes passam e às vezes quebram sem motivo claro. Um painel que organiza e explica a “saúde” dos testes automatizados, facilitando a tomada de decisão de quem precisa corrigir problemas.
+
+🔗 https://github.com/gio-fernandes/flaky-test-detector
+
