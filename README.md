@@ -1,37 +1,40 @@
 # 🌸 Giovanna Fernandes
 
-**Quality Assurance | Testes de Software | Automação**
+Sou estudante de Sistemas de Informação e atualmente atuo como Suporte em TI. Estou construindo minha carreira com foco em Quality Assurance (QA) e Engenharia de Qualidade de Software, buscando garantir a estabilidade, confiabilidade e performance de aplicações.
 
+Além dos conceitos de QA, possuo formação em Node.js, o que me permite entender a arquitetura do código por trás das aplicações e criar automações de testes mais robustas.
 
-Sou estudante de **Sistemas de Informação** e estou construindo minha carreira na área de **Quality Assurance (QA)**, com foco em garantir **qualidade, confiabilidade e estabilidade em aplicações** através de testes de software.
-
-Atualmente moro em **Paraty/RJ**, cidade cercada por natureza e mar 🌊💙.
-No meu tempo livre gosto de me envolver em atividades que me ajudam a manter a criatividade, o foco e a curiosidade como assistir filmes e séries, ler, ouvir música, fazer trilhas e estar sempre em contato com a natureza.
-
-Conquistei minha **Certificação em Quality Assurance pela Digital Innovation One (DIO)**, onde desenvolvi projetos práticos envolvendo **testes de API, testes automatizados, testes de UI e validação de aplicações**.
-
-Aqui no GitHub compartilho projetos que demonstram meu aprendizado e evolução em **testes de software, automação e boas práticas de qualidade**.
+Moro em Paraty/RJ 🌊💙. No meu tempo livre, busco recarregar as energias na natureza, fazendo trilhas, lendo, ouvindo música ou maratonando filmes e séries.
 
 ---
 
-### Stack 🧰
+### 🎓
+*   **Graduação:** Bacharelado em Sistemas de Informação *(Em andamento)*
+*   **Certificação QA:** Formação Quality Assurance (QA) Experience – Digital Innovation One (DIO)
+    *   *Foco em: Testes de API, Testes Automatizados, Testes de UI e validação de aplicações.*
+*   **Desenvolvimento:** Formação Node.js – Digital Innovation One (DIO)
+
+---
+
+🧰
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" title="JSON" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg" alt="K6" title="K6" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ----
 
-# Meus Projetos 
+### Projetos 🧪
 
 ### API Testing | ReqRes
 
@@ -81,4 +84,6 @@ Desenvolvi uma aplicação web para gerar casos de teste de forma automática. A
 Esse projeto é uma ferramenta para acompanhar se os testes automáticos de um sistema são confiáveis ou não. Em vez de olhar arquivos técnicos e difíceis de entender, ele transforma os resultados em um painel visual que mostra quais testes estão funcionando bem, quais falham e quais são “flaky” — ou seja, às vezes passam e às vezes quebram sem motivo claro. Um painel que organiza e explica a “saúde” dos testes automatizados, facilitando a tomada de decisão de quem precisa corrigir problemas.
 
 🔗 https://github.com/gio-fernandes/flaky-test-detector
+
+---
 
