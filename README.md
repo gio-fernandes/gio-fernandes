@@ -1,10 +1,8 @@
 # 🌸 Giovanna Fernandes
 
-Sou estudante de Sistemas de Informação e atualmente atuo como Suporte em TI. Estou construindo minha carreira com foco em Quality Assurance (QA) e Engenharia de Qualidade de Software, buscando garantir a estabilidade, confiabilidade e performance de aplicações.
+Sou estudante de Sistemas de Informação e atualmente atuo como Suporte em TI. 
 
-Além dos conceitos de QA, possuo formação em Node.js, o que me permite entender a arquitetura do código por trás das aplicações e criar automações de testes mais robustas.
-
-Moro em Paraty/RJ 🌊💙. No meu tempo livre, busco recarregar as energias na natureza, fazendo trilhas, lendo, ouvindo música ou maratonando filmes e séries.
+Moro em Paraty/RJ 🌊💙. No meu tempo livre, busco recarregar as energias na natureza, fazendo trilhas, ouvindo música ou maratonando filmes e séries.
 
 ---
 
@@ -19,8 +17,7 @@ Moro em Paraty/RJ 🌊💙. No meu tempo livre, busco recarregar as energias na 
 🧰
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" title="JSON" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
