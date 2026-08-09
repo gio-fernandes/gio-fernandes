@@ -19,15 +19,7 @@ Moro em Paraty/RJ 🌊💙. No meu tempo livre, busco recarregar as energias na 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" title="JSON" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg" alt="K6" title="K6" width="40" height="40" style="margin-right: 10px;" />
-</p>
+  </p>
 
 ----
 
