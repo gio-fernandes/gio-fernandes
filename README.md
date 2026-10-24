@@ -23,59 +23,6 @@ Moro em Paraty/RJ 🌊💙. No meu tempo livre, busco recarregar as energias na 
 
 ----
 
-### Projetos 🧪
-
-### API Testing | ReqRes
-
-Desenvolvi um projeto de automação de testes de API utilizando Postman e Newman. Criei cenários de teste validando status code, estrutura de resposta, dados retornados e tempo de resposta da API ReqRes. Os testes são executados via CLI com geração de relatório HTML e o projeto também inclui documentação de QA como test plan, test cases e bug report.
-
-🔗 https://github.com/gio-fernandes/api-tests-reqres
-
----
-
-### Testes E2E com Cypress | OrangeHRM
-
-Esse projeto é uma automação E2E com Cypress usando a aplicação OrangeHRM. Eu automatizei cenários de autenticação como login válido, login inválido, validação de campos obrigatórios e logout. Durante os testes identifiquei um comportamento onde o sistema continuava fazendo chamadas protegidas após logout retornando 401, então documentei isso em um bug report com evidência.
-
-🔗 https://github.com/gio-fernandes/cypress-orangehrm-tests
-
----
-
-### Testes de Performance com K6 | DummyJSON
-
-Projeto de testes de performance com K6 na API DummyJSON para validar tempo de resposta, comportamento sob carga e fluxos de autenticação.
-Criei cenários de smoke, carga, stress, busca de produtos, produto único, login positivo e negativo, além de acesso autenticado com token.
-Também organizei a execução dos testes com um arquivo .bat, pensando na padronização e facilidade de uso.
-
-🔗 https://github.com/gio-fernandes/k6-performance-dummyjson
-
----
-
-### API Fuzzer | Java
-
-Desenvolvi uma ferramenta de API Fuzzing em Java usando Rest Assured e JUnit para validar a resiliência de endpoints diante de entradas inválidas.
-O projeto envia diferentes tipos de payloads, como strings grandes, campos vazios, SQL injection, XSS, null e tipos incorretos, verificando se a API trata esses cenários sem retornar erro 500.
-
-🔗 https://github.com/gio-fernandes/api-fuzzer-java
-
----
-
-### Test Case Generator
-
-Desenvolvi uma aplicação web para gerar casos de teste de forma automática. A parte visual foi feita em React com Vite, e a API foi feita em Node.js com Express. A ideia do projeto é facilitar o trabalho de QA, transformando campos comuns de sistemas em cenários de teste prontos, o que economiza tempo e ajuda a padronizar a análise.
-
-🔗 https://github.com/gio-fernandes/test-case-generator
-
----
-
-### Flaky Test Detector
-
-Esse projeto é uma ferramenta para acompanhar se os testes automáticos de um sistema são confiáveis ou não. Em vez de olhar arquivos técnicos e difíceis de entender, ele transforma os resultados em um painel visual que mostra quais testes estão funcionando bem, quais falham e quais são “flaky” — ou seja, às vezes passam e às vezes quebram sem motivo claro. Um painel que organiza e explica a “saúde” dos testes automatizados, facilitando a tomada de decisão de quem precisa corrigir problemas.
-
-🔗 https://github.com/gio-fernandes/flaky-test-detector
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gio-fernandes/gio-fernandes/output/github-contribution-grid-snake-dark.svg">
